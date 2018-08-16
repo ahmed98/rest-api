@@ -1,0 +1,80 @@
+POST http://127.0.0.1:8001/login
+Accept: */*
+Cache-Control: no-cache
+
+username:admin password:admin98
+
+<> 2018-08-02T101721.404.html
+
+###
+
+POST http://127.0.0.1:8001/login
+Accept: */*
+Cache-Control: no-cache
+
+username:admin,password:admin98
+
+<> 2018-08-02T101603.404.html
+
+###
+
+POST http://127.0.0.1:8001/login
+Accept: */*
+Cache-Control: no-cache
+
+user:admin,password:admin98
+
+<> 2018-08-02T101508.500.html
+
+###
+
+POST http://127.0.0.1:8001/login
+Accept: */*
+Cache-Control: no-cache
+
+user:admin,password:admin98
+
+<> 2018-08-02T101458.500.html
+
+###
+
+POST http://127.0.0.1:8001/login
+Accept: */*
+Cache-Control: no-cache
+
+user:admin,password:admin98
+
+<> 2018-08-02T101423.404.html
+
+###
+
+POST http://127.0.0.1:8001/login
+Accept: */*
+Cache-Control: no-cache
+
+user:admin,password:admin98
+
+<> 2018-08-02T101356.500.html
+
+###
+
+POST http://127.0.0.1:8001/login
+Accept: */*
+Cache-Control: no-cache
+
+user:admin,password:admin98
+
+<> 2018-08-02T101312.500.html
+
+###
+
+POST http://127.0.0.1:8001/login
+Accept: */*
+Cache-Control: no-cache
+
+user:admin password:admin98
+
+<> 2018-08-02T101214.500.html
+
+###
+
